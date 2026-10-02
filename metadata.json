@@ -1,0 +1,6 @@
+{
+  "name": "MediaVault",
+  "description": "All-in-One Asset Search & Management Tool for content creators and editors. Search photos, videos, audio/SFX, and GIFs across Pexels, Pixabay, GIPHY, and Freesound with project bins, waveforms, and instant zip export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
